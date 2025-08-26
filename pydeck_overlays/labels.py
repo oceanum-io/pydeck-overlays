@@ -13,7 +13,7 @@ import pydeck
 pydeck.settings.custom_libraries = pydeck.settings.custom_libraries + [
     {
         "libraryName": "DeckOverlayLayers",
-        "resourceUri": "https://assets.oceanum.io/packages/deck-gl-overlays/bundle.umd.cjs",
+        "resourceUri": "https://assets.oceanum.io/packages/deck-gl-overlays/bundle.v9.umd.cjs",
     }
 ]
 
